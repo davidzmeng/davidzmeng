@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on fixing my sleep schedule
+- 🌱 I’m currently learning about the philosophy of mind
+- 💬 Ask me about anything
+- 📫 How to reach me: d.meng@mail.utoronto.ca or https://www.linkedin.com/in/david-zl-meng/
+- ⚡ Fun fact: I've biked from San Francisco to Stanford University (~120 km round trip)
+
 <!--
 **davidzmeng/davidzmeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
